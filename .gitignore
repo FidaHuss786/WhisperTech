@@ -1,0 +1,18 @@
+Python virtual environment
+venv/
+emg_env/
+
+Python cache files
+pycache/
+*.pyc
+
+Model files (optional, remove if you want to push emg_model.pkl)
+models/*.pkl
+
+Temporary files
+*.log
+*.tmp
+
+OS-specific files
+.DS_Store
+Thumbs.db

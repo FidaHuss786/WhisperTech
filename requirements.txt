@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+sounddevice
+matplotlib
+librosa
+scikit-learn
+joblib
+tk
